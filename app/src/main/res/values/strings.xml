@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusiInfo</string>
+    <string name="address">Address: Amrita Nagar, Panchikkal, Ayyanthole, Thrissur, Kerala 680003</string>
+    <string name="schoolname">Amrita Vidyalayam</string>
+    <string name="subname">School</string>
+    <string name="call">Call</string>
+</resources>
